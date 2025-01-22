@@ -6,7 +6,7 @@
   "id": "did:web:mijan32.github.io:DID:dev1",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MktG3q4y4FbcY9A1QJ7cv74SowBWoVZtF3LirPLEmAVvwa",
+      "publicKeyMultibase": "z6MkkqH3u1y9frM9F19tyExhXTJpnjh5TpoMffuX3Xs7bgFh",
       "controller": "did:web:mijan32.github.io:DID:dev1",
       "id": "did:web:mijan32.github.io:DID:dev1#key-0",
       "type": "Ed25519VerificationKey2020",
