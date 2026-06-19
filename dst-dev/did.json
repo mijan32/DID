@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:durga0417.github.io:dev:farmer"
+    "did:web:mijan32.github.io:DID:dst-dev"
   ],
   "service": [],
-  "id": "did:web:durga0417.github.io:dev:farmer",
+  "id": "did:web:mijan32.github.io:DID:dst-dev",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkpAz9oYGXGf4BE1Y94fieAHBqnkNs7LT5VYYM4dBtKeWy",
-      "controller": "did:web:durga0417.github.io:dev:farmer",
-      "id": "did:web:durga0417.github.io:dev:farmer#nhlz0XFuZJzr0oG2U0HjZDYRxNk3aNNHIevoD4BA6v8",
+      "publicKeyMultibase": "z6Mkf3Qy6FCYzcJ5omucxgGtriDPckfC9WVSP3VpVy6SiDp8",
+      "controller": "did:web:mijan32.github.io:DID:dst-dev",
+      "id": "did:web:mijan32.github.io:DID:dst-dev#cAYSCam-VuB44bCAFEdT_c3l4eXVkA39ClQ1d-FbKe4",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:durga0417.github.io:dev:farmer"
+    "did:web:mijan32.github.io:DID:dst-dev"
   ]
 }
